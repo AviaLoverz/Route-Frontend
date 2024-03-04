@@ -1,7 +1,7 @@
 # Route-Frontend
-Repo for Route frontend tasks
+#Repo for Route frontend tasks
 
-# Stack: Solving the bootcamp task using different technologies
+# Stack: HTML CSS JS Jquery Bootstrap React 
 
 ## Overview
 
